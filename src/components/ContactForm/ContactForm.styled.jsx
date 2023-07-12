@@ -23,7 +23,6 @@ export const Input = styled.input`
   color: #0d4ba0;
   padding: 8px 12px;
   font: inherit;
-  cursor: pointer;
   outline: none;
 `;
 

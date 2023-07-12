@@ -20,7 +20,7 @@ export const Label = styled.label`
 `;
 
 export const Input = styled.input`
-  color: #171718;
+  color: #0d4ba0;
   padding: 8px 12px;
   font: inherit;
   outline: none;
